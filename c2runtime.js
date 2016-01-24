@@ -18862,8 +18862,8 @@ cr.getObjectRefTable = function () { return [
 	cr.system_object.prototype.cnds.Compare,
 	cr.system_object.prototype.exps.distance,
 	cr.plugins_.Arr.prototype.exps.At,
-	cr.plugins_.Mouse.prototype.exps.X,
-	cr.plugins_.Mouse.prototype.exps.Y,
+	cr.plugins_.Touch.prototype.exps.X,
+	cr.plugins_.Touch.prototype.exps.Y,
 	cr.plugins_.Sprite.prototype.acts.SetTowardPosition,
 	cr.plugins_.Text.prototype.acts.SetText,
 	cr.plugins_.Sprite.prototype.acts.SetWidth
